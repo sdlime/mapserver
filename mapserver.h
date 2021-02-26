@@ -1788,7 +1788,6 @@ typedef struct labelObj labelObj;
     %mutable;
 #endif /* SWIG */
 
-    int dump;
     int debug;
 #ifndef SWIG
     char **processing;
